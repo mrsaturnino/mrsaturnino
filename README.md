@@ -6,4 +6,5 @@
 🟣 C#
 🟠 HTML 
 🔵 CSS
+🟡 JS
 🟤 MySQL
