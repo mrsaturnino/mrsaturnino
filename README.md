@@ -1,7 +1,7 @@
 ## 🖖
 💻 In progress...
 ***
-🌎 Bahia, Brasil
+🌎 Bahia, Brazil
 
 🟣 C#
 🟠 HTML 
