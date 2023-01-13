@@ -8,4 +8,4 @@
 🔵 CSS
 🟡 JS
 🟤 MySQL
-🟢 Node.js
+🟢 Python
