@@ -1,4 +1,5 @@
-<h2 align="left">🥇 Greatness is within.</h2><br>
+<h2 align="left">🥇 Greatness is within.</h2>
+
 
 ###
 
@@ -31,14 +32,16 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/andrsaturnino/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-</a>
+    </a>
+  <a href="andre_santos2012@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+    </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mrsaturnino/mrsaturnino/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mrsaturnino/mrsaturnino/output/snake.svg" alt="Snake animation" />
 
 ###
