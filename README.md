@@ -35,7 +35,7 @@
     </a>
   <a href="andre_santos2012@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-    </a>
+</a>
 </div>
 
 ###
