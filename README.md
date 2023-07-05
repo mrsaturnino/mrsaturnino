@@ -1,4 +1,4 @@
-<h2 align="left">🥇 Greatness is within.</h2>
+<h2 align="left">🥇 Greatness is within.<br></h2>
 
 
 ###
@@ -35,7 +35,7 @@
     </a>
   <a href="mailto:andre_santos2012@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</a>
+    </a>
 </div>
 
 ###
