@@ -1,6 +1,6 @@
 <h2 align="left">🥇 Greatness is within.<br></h2>
 
-
+###
 ###
 
 <div align="center">
@@ -44,6 +44,5 @@
 
 ![snake gif](https://github.com/mrsaturnino/mrsaturnino/blob/output/github-contribution-grid-snake.svg)
 
-// <img src="https://raw.githubusercontent.com/mrsaturnino/mrsaturnino/output/snake.svg" alt="Snake animation" />
 ###
 
