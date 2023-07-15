@@ -41,7 +41,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/mrsaturnino/mrsaturnino/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
